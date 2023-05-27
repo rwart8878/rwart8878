@@ -49,5 +49,5 @@
   <a href="https://www.linkedin.com/in/r-wart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-![Rupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwart8878&show_icons=true&theme=transparent)
+[![Rupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwart8878&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
