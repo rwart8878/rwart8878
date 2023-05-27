@@ -39,6 +39,7 @@
 </div>
   
   ##
+[![Rupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwart8878&show_icons=true&theme=dracula)](https://github.com/rwart8878/github-readme-stats)
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -49,5 +50,4 @@
   <a href="https://www.linkedin.com/in/r-wart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-[![Rupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwart8878&show_icons=true&theme=transparent)](https://github.com/rwart8878/github-readme-stats)
-
+[![Rupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwart8878&show_icons=true&theme=dracula)](https://github.com/rwart8878/github-readme-stats)
