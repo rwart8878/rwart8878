@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on [StudyWithBuddy](https://github.com/rwart8878/studywithbuddy)
 
 - 🌱 I’m currently learning **Node,MongoDb,Reactjs**
-
-- 📫 How to reach me **rupamtiwary365@gmail.com**
+- 🔭 I’m currently working on improving Web Development skills.
+- 🌱 I’m currently learning DataStructures & Algorithms.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WO00beMn3go6B5eGnrukQFp3Rlid33_Y/view?usp=drive_link](https://drive.google.com/file/d/1WO00beMn3go6B5eGnrukQFp3Rlid33_Y/view?usp=drive_link)
 
@@ -40,14 +40,10 @@
   
   ##
 [![Rupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwart8878&show_icons=true&theme=dracula)](https://github.com/rwart8878/github-readme-stats)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwart8878&size_weight=0.5&count_weight=0.5)](https://github.com/rwart8878/github-readme-stats)
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_rwart" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/_rwart" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rupamtiwary365@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/r-wart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-[![Rupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwart8878&show_icons=true&theme=dracula)](https://github.com/rwart8878/github-readme-stats)
